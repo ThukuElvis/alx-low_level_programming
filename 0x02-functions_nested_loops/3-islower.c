@@ -1,9 +1,9 @@
 #include "main.h"
 
  /**
-  * _islower - function to print lower case
+  * islower - function to print lower case
   *
-  * @c:parameter to be printed
+  * c:parameter to be printed
   *
   * Return:1 if it a lower case
   * and 0 otherwise
