@@ -8,9 +8,9 @@
 
 int _strlen(char *s)
 {
-int string_lenght = 0;
+	int string_lenght = 0;
 
-while (s[string_lenght])
-	string_length;
-return (string_length);
+	while (s[string_lenght])
+		string_length++;
+	return (string_length);
 }
