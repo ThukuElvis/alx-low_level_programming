@@ -4,13 +4,11 @@
  * Return : always zero
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	char i;
+	char (i);
 
 	for (i = 'a' ; i <= 'z'; i++)
 		_putchar(i);
-	_putcher('\n');
-
-	return (0);
+	_putchar('\n');
 }
